@@ -41,7 +41,7 @@ public class day17 {
                     if (students.isEmpty()) {
                         System.out.println("No students found.");
                     } else {
-                        System.out.println("\n--- Student List ---");
+                        System.out.println("Student List");
                         for (Map.Entry<Integer, String> entry : students.entrySet()) {
                             System.out.println("ID: " + entry.getKey() + ", Name: " + entry.getValue());
                         }
@@ -97,3 +97,4 @@ public class day17 {
         }
     }
 }
+
