@@ -1,3 +1,6 @@
+//linked list
+
+
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -98,3 +101,4 @@ public class day14{
         }
     }
 }
+
