@@ -38,7 +38,7 @@ public class day16 {
         HashSet<Student> students = new HashSet<>();
 
         while (true) {
-            System.out.println("\n--- Student Management System (HashSet) ---");
+            System.out.println("Student Management System (HashSet)");
             System.out.println("1. Add Student");
             System.out.println("2. Display Students");
             System.out.println("3. Remove Student");
@@ -128,3 +128,4 @@ public class day16 {
         }
     }
 }
+
