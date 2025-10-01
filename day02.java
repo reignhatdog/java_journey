@@ -1,4 +1,3 @@
-
 //operators//
 
 public class day2 {
