@@ -1,4 +1,3 @@
-
 //simple java program. displays name, age and favorite food//
 
 public class day1{
