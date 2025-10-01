@@ -1,4 +1,3 @@
-
 //triangle pattern using loops//
 
 public class day6{
