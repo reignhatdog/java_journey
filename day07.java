@@ -1,4 +1,3 @@
-
 //insertion sort
 
 import java.util.Scanner;
@@ -43,3 +42,4 @@ public class day7 {
         }
     }
 }
+
