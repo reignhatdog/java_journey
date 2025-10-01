@@ -1,4 +1,3 @@
-
 //taking user input and using conditional statements//
 
 import java.util.Scanner;
