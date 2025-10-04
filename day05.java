@@ -38,7 +38,6 @@ public class day5{
             System.out.println("Remarks: failed");
         }
 
-
 sc.close();
     }
 }
