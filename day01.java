@@ -7,9 +7,7 @@ public class day1{
         int age = 19;
 
         String favoritefood = "adobo";
-
     System.out.print("My name is " +  name +  " I'm " +  age + " My favorite food is " +  favoritefood + ".");
-
 
 
 }}
