@@ -12,7 +12,6 @@ public class day2 {
         System.out.println("a % b = " + (a % b));
 
 
-
     //logical
     boolean x = true;
     boolean y = false;
